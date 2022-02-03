@@ -2,7 +2,7 @@
 Additional electronic materials for `Fotedar,S., Strömberg,A.-B., Almgren,T., Cedergren,S. A criterion space decomposition approach to generalized tri-objective tactical resource allocation`. We also share our public instances and the constant data used across instances ([Constant Data](https://github.com/SunneyF/GTRAP/blob/main/constant_data.csv)). For more information contact `sunney@chalmers.se`
 
 ## Instances
-Following are the details on the instances (see [Industrial Instances](https://github.com/SunneyF/GTRAP/blob/main/Industrial_Instances.pdf) ):
+Following are the details on the instances (see [Industrial Instances](https://github.com/SunneyF/GTRAP/blob/main/Industrial_Instances.pdf) to know more details about the distributions):
 
 | FileName | Distribution| Skewness | max. qualification cost |
 | ------ | ------ | ------ | ------ |
